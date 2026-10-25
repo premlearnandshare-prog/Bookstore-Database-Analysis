@@ -1,0 +1,11 @@
+customer_id,name,email,phone,city,country
+1,Aarav Sharma,aarav.sharma@example.com,9876501201,Raipur,India
+2,Priya Verma,priya.verma@example.com,9876501202,Delhi,India
+3,Rahul Patel,rahul.patel@example.com,9876501203,Ahmedabad,India
+4,Sneha Singh,sneha.singh@example.com,9876501204,Mumbai,India
+5,Arjun Mehta,arjun.mehta@example.com,9876501205,Jaipur,India
+6,Ananya Gupta,ananya.gupta@example.com,9876501206,Bengaluru,India
+7,Vikram Yadav,vikram.yadav@example.com,9876501207,Lucknow,India
+8,Neha Joshi,neha.joshi@example.com,9876501208,Pune,India
+9,Rohan Das,rohan.das@example.com,9876501209,Kolkata,India
+10,Kavya Nair,kavya.nair@example.com,9876501210,Chennai,India
